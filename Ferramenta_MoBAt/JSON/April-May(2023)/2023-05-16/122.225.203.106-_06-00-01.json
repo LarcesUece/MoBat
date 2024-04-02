@@ -1,0 +1,36 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "Kangda Automobile Co. Ltd.Zhejiang",
+    "abuseipdb_domain": "chinatelecom.com.cn",
+    "abuseipdb_total_reports": 509,
+    "abuseipdb_num_distinct_users": 103,
+    "abuseipdb_last_reported_at": "2023-05-16T03:28:08+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Chinanet",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 6,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 4134,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS4134",
+    "SHODAN_isp": "CHINANET-BACKBONE",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        85
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS4134 chinanet"
+}

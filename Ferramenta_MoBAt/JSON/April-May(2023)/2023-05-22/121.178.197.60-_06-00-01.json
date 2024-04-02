@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "KR",
+    "abuseipdb_isp": "KT Corporation",
+    "abuseipdb_domain": "kt.com",
+    "abuseipdb_total_reports": 590,
+    "abuseipdb_num_distinct_users": 232,
+    "abuseipdb_last_reported_at": "2023-05-22T04:33:28+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Korea Telecom",
+    "virustotal_last_analysis_stats": {
+        "harmless": 55,
+        "malicious": 12,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 4766,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS4766",
+    "SHODAN_isp": "Korea Telecom",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS4766 korea telecom"
+}

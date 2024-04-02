@@ -1,0 +1,39 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "shanghai wexchange network technology Co. Ltd.",
+    "abuseipdb_domain": "wexchange.com.cn",
+    "abuseipdb_total_reports": 317,
+    "abuseipdb_num_distinct_users": 90,
+    "abuseipdb_last_reported_at": "2023-05-14T13:57:31+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "China Telecom Group",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 6,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 4811,
+    "virustotal_reputation": 0,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.65,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS4811",
+    "SHODAN_isp": "China Telecom (Group)",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        80,
+        161,
+        443,
+        623
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS4811 china telecom (group)"
+}

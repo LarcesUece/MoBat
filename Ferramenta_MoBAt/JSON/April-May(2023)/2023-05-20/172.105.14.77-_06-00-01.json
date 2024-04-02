@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CA",
+    "abuseipdb_isp": "Linode LLC",
+    "abuseipdb_domain": "linode.com",
+    "abuseipdb_total_reports": 72,
+    "abuseipdb_num_distinct_users": 33,
+    "abuseipdb_last_reported_at": "2023-05-20T04:00:16+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "Akamai Connected Cloud",
+    "virustotal_last_analysis_stats": {
+        "harmless": 63,
+        "malicious": 4,
+        "suspicious": 0,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 63949,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS63949",
+    "SHODAN_isp": "Linode, LLC",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS63949 linode  llc"
+}

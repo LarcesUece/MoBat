@@ -1,0 +1,43 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "RU",
+    "abuseipdb_isp": "MTS PJSC",
+    "abuseipdb_domain": "mtsgsm.com",
+    "abuseipdb_total_reports": 248,
+    "abuseipdb_num_distinct_users": 62,
+    "abuseipdb_last_reported_at": "2023-05-16T06:43:49+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "MTS PJSC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 8,
+        "suspicious": 2,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 60490,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS60490",
+    "SHODAN_isp": "MTS PJSC",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        22,
+        8102,
+        80,
+        8086,
+        443,
+        8101
+    ],
+    "SHODAN_tags": [
+        "self-signed"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS60490 mts pjsc"
+}

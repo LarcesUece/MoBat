@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "ET",
+    "abuseipdb_isp": "Ethio Telecom",
+    "abuseipdb_domain": "ethiotelecom.et",
+    "abuseipdb_total_reports": 167,
+    "abuseipdb_num_distinct_users": 91,
+    "abuseipdb_last_reported_at": "2023-05-08T00:02:56+00:00",
+    "virustotal_regional_internet_registry": "AFRINIC",
+    "virustotal_as_owner": "Ethiopian Telecommunication Corporation",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 4,
+        "suspicious": 0,
+        "undetected": 22,
+        "timeout": 0
+    },
+    "virustotal_asn": 24757,
+    "virustotal_reputation": 0,
+    "IBM_score": 5.7,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 4.4,
+    "IBM_most common score": 5.7,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": null,
+    "ALIENVAULT_false_positive": "True",
+    "ALIENVAULT_asn": null
+}

@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "US",
+    "abuseipdb_isp": "IT Outsourcing LLC",
+    "abuseipdb_domain": "itos.biz",
+    "abuseipdb_total_reports": 867,
+    "abuseipdb_num_distinct_users": 321,
+    "abuseipdb_last_reported_at": "2023-04-19T15:20:04+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "Cgi Global Limited",
+    "virustotal_last_analysis_stats": {
+        "harmless": 64,
+        "malicious": 6,
+        "suspicious": 0,
+        "undetected": 17,
+        "timeout": 0
+    },
+    "virustotal_asn": 56971,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS56971",
+    "SHODAN_isp": "CGI GLOBAL LIMITED",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS35251 zhihua lu trading as hosthub"
+}

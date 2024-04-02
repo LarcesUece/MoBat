@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "Tencent Cloud Computing (Beijing) Co. Ltd",
+    "abuseipdb_domain": "tencent.com",
+    "abuseipdb_total_reports": 1411,
+    "abuseipdb_num_distinct_users": 392,
+    "abuseipdb_last_reported_at": "2023-05-10T06:05:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Shenzhen Tencent Computer Systems Company Limited",
+    "virustotal_last_analysis_stats": {
+        "harmless": 55,
+        "malicious": 12,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 45090,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS45090",
+    "SHODAN_isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS45090 shenzhen tencent computer systems company limited"
+}

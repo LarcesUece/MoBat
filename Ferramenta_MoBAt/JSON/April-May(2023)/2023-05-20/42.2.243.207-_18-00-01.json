@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "HK",
+    "abuseipdb_isp": "Hong Kong Telecommunications (HKT) Limited",
+    "abuseipdb_domain": "netvigator.com",
+    "abuseipdb_total_reports": 43,
+    "abuseipdb_num_distinct_users": 28,
+    "abuseipdb_last_reported_at": "2023-05-20T19:21:52+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "HKT Limited",
+    "virustotal_last_analysis_stats": {
+        "harmless": 0,
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 86,
+        "timeout": 0
+    },
+    "virustotal_asn": 4760,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS4760",
+    "SHODAN_isp": "HKT Limited",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS4760 hkt limited"
+}

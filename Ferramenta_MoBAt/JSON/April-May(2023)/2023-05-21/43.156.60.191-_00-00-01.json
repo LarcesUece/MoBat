@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "SG",
+    "abuseipdb_isp": "Aceville Pte.Ltd.",
+    "abuseipdb_domain": "tencent.com",
+    "abuseipdb_total_reports": 3250,
+    "abuseipdb_num_distinct_users": 728,
+    "abuseipdb_last_reported_at": "2023-05-21T02:32:23+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Tencent Building, Kejizhongyi Avenue",
+    "virustotal_last_analysis_stats": {
+        "harmless": 56,
+        "malicious": 11,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 132203,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.21,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS132203",
+    "SHODAN_isp": "Tencent Building, Kejizhongyi Avenue",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS132203 tencent building  kejizhongyi avenue"
+}

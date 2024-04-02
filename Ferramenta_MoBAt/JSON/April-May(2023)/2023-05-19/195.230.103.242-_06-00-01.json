@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "DE",
+    "abuseipdb_isp": "SecurityTrails LLC",
+    "abuseipdb_domain": "securitytrails.com",
+    "abuseipdb_total_reports": 2106,
+    "abuseipdb_num_distinct_users": 72,
+    "abuseipdb_last_reported_at": "2023-05-19T09:05:42+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "Securitytrails, LLC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 5,
+        "suspicious": 0,
+        "undetected": 21,
+        "timeout": 0
+    },
+    "virustotal_asn": 211607,
+    "virustotal_reputation": 0,
+    "IBM_score": 10,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.07,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS211607 securitytrails  llc"
+}

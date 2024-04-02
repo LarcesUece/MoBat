@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "BR",
+    "abuseipdb_isp": "Telecomunicacoes Nordeste Ltda.",
+    "abuseipdb_domain": "tvninternet.com.br",
+    "abuseipdb_total_reports": 348,
+    "abuseipdb_num_distinct_users": 126,
+    "abuseipdb_last_reported_at": "2023-05-09T04:06:05+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "Telecomunicacoes Nordeste Ltda.",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 6,
+        "suspicious": 0,
+        "undetected": 22,
+        "timeout": 0
+    },
+    "virustotal_asn": 28652,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS28652",
+    "SHODAN_isp": "Telecomunica\u00e7\u00f5es Nordeste Ltda.",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS28652 telecomunicaes nordeste ltda."
+}

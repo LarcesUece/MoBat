@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "TH",
+    "abuseipdb_isp": "Advanced Info Service Public Company Limited",
+    "abuseipdb_domain": "ais.co.th",
+    "abuseipdb_total_reports": 474,
+    "abuseipdb_num_distinct_users": 205,
+    "abuseipdb_last_reported_at": "2024-03-11T23:28:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "SBN-ISPAWN-ISP and SBN-NIXAWN-NIX",
+    "virustotal_last_analysis_stats": {
+        "malicious": 11,
+        "suspicious": 2,
+        "undetected": 22,
+        "harmless": 56,
+        "timeout": 0
+    },
+    "virustotal_asn": 45458,
+    "virustotal_reputation": -1,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.2,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS45458 sbn-isp/awn-isp and sbn-nix/awn-nix"
+}

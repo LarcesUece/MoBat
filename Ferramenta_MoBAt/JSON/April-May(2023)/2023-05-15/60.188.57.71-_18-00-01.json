@@ -1,0 +1,37 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "ChinaNet Zhejiang Province Network",
+    "abuseipdb_domain": "chinatelecom.com.cn",
+    "abuseipdb_total_reports": 69,
+    "abuseipdb_num_distinct_users": 55,
+    "abuseipdb_last_reported_at": "2023-05-15T20:47:35+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "CT-HangZhou-IDC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 65,
+        "malicious": 2,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 58461,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.45,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS58461",
+    "SHODAN_isp": "CT-HangZhou-IDC",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        25,
+        135
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS58461 ct-hangzhou-idc"
+}

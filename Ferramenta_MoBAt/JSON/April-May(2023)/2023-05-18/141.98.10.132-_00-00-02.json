@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "LT",
+    "abuseipdb_isp": "UAB Host Baltic",
+    "abuseipdb_domain": "serveroffer.lt",
+    "abuseipdb_total_reports": 2902,
+    "abuseipdb_num_distinct_users": 215,
+    "abuseipdb_last_reported_at": "2023-05-18T03:23:19+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "UAB Host Baltic",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 9,
+        "suspicious": 2,
+        "undetected": 17,
+        "timeout": 0
+    },
+    "virustotal_asn": 209605,
+    "virustotal_reputation": -1,
+    "IBM_score": 1.4,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.48,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS209605",
+    "SHODAN_isp": "UAB Host Baltic",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS209605 uab host baltic"
+}

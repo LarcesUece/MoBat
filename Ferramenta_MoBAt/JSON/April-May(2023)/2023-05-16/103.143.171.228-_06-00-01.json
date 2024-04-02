@@ -1,0 +1,49 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "ID",
+    "abuseipdb_isp": "PT. Rak Super Ninja",
+    "abuseipdb_domain": "ninjaserver.co.id",
+    "abuseipdb_total_reports": 1385,
+    "abuseipdb_num_distinct_users": 488,
+    "abuseipdb_last_reported_at": "2023-05-16T05:16:38+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "PT. Rak Super Ninja",
+    "virustotal_last_analysis_stats": {
+        "harmless": 58,
+        "malicious": 9,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 139400,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.32,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS139400",
+    "SHODAN_isp": "PT. Rak Super Ninja",
+    "SHODAN_vulns": "True",
+    "SHODAN_ports": [
+        993,
+        2082,
+        995,
+        2086,
+        2087,
+        110,
+        143,
+        80,
+        2083,
+        21,
+        4190,
+        53
+    ],
+    "SHODAN_tags": [
+        "self-signed"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS139400 pt. rak super ninja"
+}

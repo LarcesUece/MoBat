@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "GB",
+    "abuseipdb_isp": "BTHoster LTD",
+    "abuseipdb_domain": "bthoster.com",
+    "abuseipdb_total_reports": 4103,
+    "abuseipdb_num_distinct_users": 346,
+    "abuseipdb_last_reported_at": "2023-05-18T21:10:50+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "SS-Net",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 7,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 204428,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS35478",
+    "SHODAN_isp": "Bunea TELECOM SRL",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS35478 bunea telecom srl"
+}

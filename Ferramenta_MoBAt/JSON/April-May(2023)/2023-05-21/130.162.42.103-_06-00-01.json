@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "DE",
+    "abuseipdb_isp": "Oracle Public Cloud",
+    "abuseipdb_domain": "oracle.com",
+    "abuseipdb_total_reports": 3905,
+    "abuseipdb_num_distinct_users": 829,
+    "abuseipdb_last_reported_at": "2023-05-21T08:15:34+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "ORACLE-BMC-31898",
+    "virustotal_last_analysis_stats": {
+        "harmless": 58,
+        "malicious": 8,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 31898,
+    "virustotal_reputation": -1,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.13,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS31898",
+    "SHODAN_isp": "Oracle Corporation",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS31898 oracle corporation"
+}

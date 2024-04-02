@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 0,
+    "abuseipdb_country_code": "ES",
+    "abuseipdb_isp": "Orange Espagne SA",
+    "abuseipdb_domain": "orange.es",
+    "abuseipdb_total_reports": 0,
+    "abuseipdb_num_distinct_users": 0,
+    "abuseipdb_last_reported_at": "2023-11-30T01:46:46+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Orange Espagne SA",
+    "virustotal_last_analysis_stats": {
+        "malicious": 3,
+        "suspicious": 1,
+        "undetected": 23,
+        "harmless": 64,
+        "timeout": 0
+    },
+    "virustotal_asn": 12479,
+    "virustotal_reputation": -1,
+    "IBM_score": "None",
+    "IBM_reason": "None",
+    "IBM_reasonDescription": "None",
+    "IBM_average history Score": "None",
+    "IBM_most common score": "None",
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS12479 orange espagne sa"
+}

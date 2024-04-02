@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": true,
+    "abuseipdb_confidence_score": 0,
+    "abuseipdb_country_code": "US",
+    "abuseipdb_isp": "Censys Inc.",
+    "abuseipdb_domain": "censys.io",
+    "abuseipdb_total_reports": 2456,
+    "abuseipdb_num_distinct_users": 67,
+    "abuseipdb_last_reported_at": "2023-05-23T09:03:41+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "CENSYS-ARIN-02",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 5,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 398705,
+    "virustotal_reputation": 0,
+    "IBM_score": 10,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.96,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS398705 censys  inc."
+}

@@ -1,0 +1,29 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "VN",
+    "abuseipdb_isp": "FPT Telecom",
+    "abuseipdb_domain": "fpt.com.vn",
+    "abuseipdb_total_reports": 60,
+    "abuseipdb_num_distinct_users": 8,
+    "abuseipdb_last_reported_at": "2023-10-02T05:04:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "FPT Telecom Company",
+    "virustotal_last_analysis_stats": {
+        "harmless": 56,
+        "malicious": 10,
+        "suspicious": 1,
+        "undetected": 22,
+        "timeout": 0
+    },
+    "virustotal_asn": 18403,
+    "virustotal_reputation": -13,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.8,
+    "IBM_most common score": 5.7,
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS18403 fpt telecom company"
+}

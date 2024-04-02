@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "VN",
+    "abuseipdb_isp": "Viettel Group",
+    "abuseipdb_domain": "viettel.com.vn",
+    "abuseipdb_total_reports": 3645,
+    "abuseipdb_num_distinct_users": 822,
+    "abuseipdb_last_reported_at": "2023-05-11T01:51:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "CHT Compamy Ltd",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 11,
+        "suspicious": 1,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 38731,
+    "virustotal_reputation": -1,
+    "IBM_score": 5.7,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.19,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS38731",
+    "SHODAN_isp": "Vietel - CHT Compamy Ltd",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS7552 viettel group"
+}

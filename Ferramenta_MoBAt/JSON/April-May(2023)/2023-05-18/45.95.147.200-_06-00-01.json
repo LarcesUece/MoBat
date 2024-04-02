@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "NL",
+    "abuseipdb_isp": "Alsycon B.V.",
+    "abuseipdb_domain": "alsycon.nl",
+    "abuseipdb_total_reports": 6132,
+    "abuseipdb_num_distinct_users": 271,
+    "abuseipdb_last_reported_at": "2023-05-18T09:30:43+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Alsycon B.V.",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 8,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 49870,
+    "virustotal_reputation": -2,
+    "IBM_score": 5.7,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.49,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS49870",
+    "SHODAN_isp": "Alsycon B.V.",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS49870 alsycon b.v."
+}

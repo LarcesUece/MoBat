@@ -1,0 +1,38 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "VN",
+    "abuseipdb_isp": "Long Van System Solution JSC",
+    "abuseipdb_domain": "lvsolution.vn",
+    "abuseipdb_total_reports": 3348,
+    "abuseipdb_num_distinct_users": 709,
+    "abuseipdb_last_reported_at": "2023-05-13T14:45:17+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Long Van System Solution JSC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 55,
+        "malicious": 11,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 131386,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 4.19,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS131386",
+    "SHODAN_isp": "Long Van System Solution JSC",
+    "SHODAN_vulns": "True",
+    "SHODAN_ports": [
+        80,
+        443,
+        22
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS131386 long van system solution jsc"
+}

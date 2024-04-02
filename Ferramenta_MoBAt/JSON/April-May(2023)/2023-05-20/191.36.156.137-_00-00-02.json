@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "BR",
+    "abuseipdb_isp": "VipTurbo Comercio & Servicos de Informatica Ltda",
+    "abuseipdb_domain": "brasiltelecom.net.br",
+    "abuseipdb_total_reports": 412,
+    "abuseipdb_num_distinct_users": 103,
+    "abuseipdb_last_reported_at": "2023-05-20T02:36:08+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "VIPTURBO COMERCIO & SERVICOS DE INFORMATICA LTDA",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 5,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 263333,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS263333 vipturbo comrcio & servios de informtica ltda"
+}

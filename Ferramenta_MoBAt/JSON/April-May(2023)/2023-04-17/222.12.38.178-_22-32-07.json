@@ -1,0 +1,26 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "JP",
+    "abuseipdb_isp": "KDDI Corporation",
+    "abuseipdb_domain": "kddi.com",
+    "abuseipdb_total_reports": 171,
+    "abuseipdb_num_distinct_users": 35,
+    "abuseipdb_last_reported_at": "2023-04-17T14:17:01+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "KDDI CORPORATION",
+    "virustotal_last_analysis_stats": {
+        "harmless": 66,
+        "malicious": 2,
+        "suspicious": 2,
+        "undetected": 17,
+        "timeout": 0
+    },
+    "virustotal_asn": 2516,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1
+}

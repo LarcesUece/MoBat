@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "DE",
+    "abuseipdb_isp": "DigitalOcean LLC",
+    "abuseipdb_domain": "digitalocean.com",
+    "abuseipdb_total_reports": 2907,
+    "abuseipdb_num_distinct_users": 710,
+    "abuseipdb_last_reported_at": "2023-05-21T19:56:27+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "DIGITALOCEAN-ASN",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 10,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 14061,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.34,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS14061",
+    "SHODAN_isp": "DigitalOcean, LLC",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS14061 digitalocean  llc"
+}

@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 2,
+    "abuseipdb_country_code": "GB",
+    "abuseipdb_isp": "BTHosting",
+    "abuseipdb_domain": "dwarfsoutrun.com",
+    "abuseipdb_total_reports": 1,
+    "abuseipdb_num_distinct_users": 1,
+    "abuseipdb_last_reported_at": "2023-09-23T13:12:27+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "SS-Net",
+    "virustotal_last_analysis_stats": {
+        "harmless": 62,
+        "malicious": 6,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 204428,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.5,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": "None",
+    "ALIENVAULT_false_positive": "None",
+    "ALIENVAULT_asn": "None"
+}

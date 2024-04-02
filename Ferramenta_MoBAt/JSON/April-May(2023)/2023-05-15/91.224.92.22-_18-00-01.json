@@ -1,0 +1,38 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "LT",
+    "abuseipdb_isp": "Infocom UK Ltd",
+    "abuseipdb_domain": "infocom.uk",
+    "abuseipdb_total_reports": 3002,
+    "abuseipdb_num_distinct_users": 246,
+    "abuseipdb_last_reported_at": "2023-05-15T20:23:20+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "UAB Host Baltic",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 9,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 209605,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS133398",
+    "SHODAN_isp": "Tele Asia Limited",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        3389
+    ],
+    "SHODAN_tags": [
+        "self-signed"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS133398 tele asia limited"
+}

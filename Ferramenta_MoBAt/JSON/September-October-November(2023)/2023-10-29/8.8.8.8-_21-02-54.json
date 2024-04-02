@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": " True",
+    "abuseipdb_confidence_score": 0,
+    "abuseipdb_country_code": "US",
+    "abuseipdb_isp": "Google LLC",
+    "abuseipdb_domain": "google.com",
+    "abuseipdb_total_reports": 12,
+    "abuseipdb_num_distinct_users": 9,
+    "abuseipdb_last_reported_at": "2023-10-28T07:42:48+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "GOOGLE",
+    "virustotal_last_analysis_stats": {
+        "harmless": 65,
+        "malicious": 3,
+        "suspicious": 0,
+        "undetected": 21,
+        "timeout": 0
+    },
+    "virustotal_asn": 15169,
+    "virustotal_reputation": 565,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 4.6,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS15169",
+    "SHODAN_isp": "Google LLC",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "True",
+    "ALIENVAULT_asn": "AS15169 google llc"
+}

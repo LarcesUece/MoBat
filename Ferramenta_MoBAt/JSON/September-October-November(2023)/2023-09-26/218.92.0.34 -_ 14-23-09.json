@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "ChinaNet Jiangsu Province Network",
+    "abuseipdb_domain": "chinatelecom.com.cn",
+    "abuseipdb_total_reports": 30500,
+    "abuseipdb_num_distinct_users": 431,
+    "abuseipdb_last_reported_at": "2023-09-26T17:13:02+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Chinanet",
+    "virustotal_last_analysis_stats": {
+        "harmless": 55,
+        "malicious": 12,
+        "suspicious": 2,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 4134,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.6,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": "None",
+    "ALIENVAULT_false_positive": "None",
+    "ALIENVAULT_asn": "None"
+}

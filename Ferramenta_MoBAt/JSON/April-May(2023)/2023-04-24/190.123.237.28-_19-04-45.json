@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "PA",
+    "abuseipdb_isp": "Liberty Technologies Corp.",
+    "abuseipdb_domain": "liberty-tech.net",
+    "abuseipdb_total_reports": 419,
+    "abuseipdb_num_distinct_users": 119,
+    "abuseipdb_last_reported_at": "2023-04-24T07:37:27+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "Liberty Technologies Corp.",
+    "virustotal_last_analysis_stats": {
+        "harmless": 62,
+        "malicious": 5,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 27928,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS27928",
+    "SHODAN_isp": "Liberty Technologies Corp.",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS27928 liberty technologies corp."
+}

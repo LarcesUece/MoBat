@@ -1,0 +1,49 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 83,
+    "abuseipdb_country_code": "DE",
+    "abuseipdb_isp": "Contabo GmbH",
+    "abuseipdb_domain": "contabo.com",
+    "abuseipdb_total_reports": 3377,
+    "abuseipdb_num_distinct_users": 40,
+    "abuseipdb_last_reported_at": "2023-05-14T18:20:31+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Contabo GmbH",
+    "virustotal_last_analysis_stats": {
+        "harmless": 62,
+        "malicious": 4,
+        "suspicious": 0,
+        "undetected": 21,
+        "timeout": 0
+    },
+    "virustotal_asn": 51167,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.66,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS51167",
+    "SHODAN_isp": "Contabo GmbH",
+    "SHODAN_vulns": "True",
+    "SHODAN_ports": [
+        8000,
+        993,
+        33060,
+        8200,
+        143,
+        80,
+        465,
+        22,
+        25,
+        443,
+        25565
+    ],
+    "SHODAN_tags": [
+        "videogame",
+        "starttls"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS15685 casablanca int"
+}

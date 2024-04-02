@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "KZ",
+    "abuseipdb_isp": "Kostanaisky inzhenerno-ekonomichtskii universitet",
+    "abuseipdb_domain": "online.kz",
+    "abuseipdb_total_reports": 3081,
+    "abuseipdb_num_distinct_users": 755,
+    "abuseipdb_last_reported_at": "2023-04-19T20:33:44+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "JSC Kazakhtelecom",
+    "virustotal_last_analysis_stats": {
+        "harmless": 63,
+        "malicious": 9,
+        "suspicious": 0,
+        "undetected": 15,
+        "timeout": 0
+    },
+    "virustotal_asn": 9198,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.66,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS9198",
+    "SHODAN_isp": "JSC Kazakhtelecom",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS9198 jsc kazakhtelecom"
+}

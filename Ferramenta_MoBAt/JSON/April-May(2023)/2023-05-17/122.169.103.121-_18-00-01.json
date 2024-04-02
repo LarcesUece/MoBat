@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "IN",
+    "abuseipdb_isp": "Bharti Airtel Ltd.",
+    "abuseipdb_domain": "airtel.in",
+    "abuseipdb_total_reports": 280,
+    "abuseipdb_num_distinct_users": 74,
+    "abuseipdb_last_reported_at": "2023-05-17T19:20:00+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Bharti Airtel Ltd., Telemedia Services",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 6,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 24560,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS24560",
+    "SHODAN_isp": "Bharti Airtel Ltd., Telemedia Services",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS24560 bharti airtel ltd."
+}

@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "US",
+    "abuseipdb_isp": "CARInet Inc.",
+    "abuseipdb_domain": "cari.net",
+    "abuseipdb_total_reports": 1067,
+    "abuseipdb_num_distinct_users": 199,
+    "abuseipdb_last_reported_at": "2023-11-18T08:30:07+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "CARINET",
+    "virustotal_last_analysis_stats": {
+        "harmless": 56,
+        "malicious": 11,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 10439,
+    "virustotal_reputation": -5,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 4.8,
+    "IBM_most common score": 7.1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS10439 carinet  inc."
+}

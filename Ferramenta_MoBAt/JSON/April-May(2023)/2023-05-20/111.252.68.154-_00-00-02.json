@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 99,
+    "abuseipdb_country_code": "TW",
+    "abuseipdb_isp": "Chunghwa Telecom Co. Ltd.",
+    "abuseipdb_domain": "cht.com.tw",
+    "abuseipdb_total_reports": 86,
+    "abuseipdb_num_distinct_users": 71,
+    "abuseipdb_last_reported_at": "2023-05-18T04:50:40+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Data Communication Business Group",
+    "virustotal_last_analysis_stats": {
+        "harmless": 63,
+        "malicious": 1,
+        "suspicious": 0,
+        "undetected": 23,
+        "timeout": 0
+    },
+    "virustotal_asn": 3462,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.4,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS3462 data communication business group"
+}
