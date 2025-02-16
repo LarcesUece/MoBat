@@ -1,0 +1,50 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "CN",
+    "abuseipdb_isp": "China Mobile Communications Corporation",
+    "abuseipdb_domain": "chinamobileltd.com",
+    "abuseipdb_total_reports": 1448,
+    "abuseipdb_num_distinct_users": 411,
+    "abuseipdb_last_reported_at": "2023-05-14T05:21:12+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Henan Mobile Communications Co.,Ltd",
+    "virustotal_last_analysis_stats": {
+        "harmless": 56,
+        "malicious": 11,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 24445,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS24445",
+    "SHODAN_isp": "Henan Mobile Communications Co.,Ltd",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        9090,
+        9099,
+        2181,
+        6379,
+        9009,
+        8020,
+        8181,
+        22,
+        7001,
+        25,
+        9020
+    ],
+    "SHODAN_tags": [
+        "eol-os",
+        "compromised",
+        "eol-product"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS24445 henan mobile communications co. ltd"
+}

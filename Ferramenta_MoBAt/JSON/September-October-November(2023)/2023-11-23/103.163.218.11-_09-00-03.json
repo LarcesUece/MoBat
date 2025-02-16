@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 11,
+    "abuseipdb_country_code": "VN",
+    "abuseipdb_isp": "Lam A Architecture Construction Company Limited",
+    "abuseipdb_domain": "vnnic.vn",
+    "abuseipdb_total_reports": 1,
+    "abuseipdb_num_distinct_users": 1,
+    "abuseipdb_last_reported_at": "2023-11-21T13:10:03+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED",
+    "virustotal_last_analysis_stats": {
+        "harmless": 64,
+        "malicious": 5,
+        "suspicious": 1,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 140787,
+    "virustotal_reputation": 0,
+    "IBM_score": "None",
+    "IBM_reason": "None",
+    "IBM_reasonDescription": "None",
+    "IBM_average history Score": "None",
+    "IBM_most common score": "None",
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS140787 lam a architecture construction company limited"
+}

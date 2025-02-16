@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "US",
+    "abuseipdb_isp": "Des Capital B.V.",
+    "abuseipdb_domain": "des.capital",
+    "abuseipdb_total_reports": 470,
+    "abuseipdb_num_distinct_users": 132,
+    "abuseipdb_last_reported_at": "2023-05-06T05:53:18+00:00",
+    "virustotal_regional_internet_registry": "ARIN",
+    "virustotal_as_owner": "Delis LLC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 62,
+        "malicious": 3,
+        "suspicious": 2,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 211252,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS211252",
+    "SHODAN_isp": "Delis LLC",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS211252 delis llc"
+}

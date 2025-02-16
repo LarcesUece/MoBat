@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "NL",
+    "abuseipdb_isp": "FiberXpress BV",
+    "abuseipdb_domain": "fiberxpress.net",
+    "abuseipdb_total_reports": 6179,
+    "abuseipdb_num_distinct_users": 78,
+    "abuseipdb_last_reported_at": "2023-05-10T03:03:38+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "IP Volume inc",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 8,
+        "suspicious": 2,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 202425,
+    "virustotal_reputation": 0,
+    "IBM_score": 7.1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.4,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": null,
+    "ALIENVAULT_false_positive": "True",
+    "ALIENVAULT_asn": null
+}

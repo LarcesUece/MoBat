@@ -1,0 +1,40 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "BZ",
+    "abuseipdb_isp": "Veraton Projects Ltd.",
+    "abuseipdb_domain": "layershift.ru",
+    "abuseipdb_total_reports": 4436,
+    "abuseipdb_num_distinct_users": 889,
+    "abuseipdb_last_reported_at": "2023-05-14T03:24:25+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "Layer7 Networks GmbH",
+    "virustotal_last_analysis_stats": {
+        "harmless": 50,
+        "malicious": 20,
+        "suspicious": 1,
+        "undetected": 16,
+        "timeout": 0
+    },
+    "virustotal_asn": 211179,
+    "virustotal_reputation": -3,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.23,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS211179",
+    "SHODAN_isp": "Layer7 Networks GmbH",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        1434,
+        443,
+        53,
+        22,
+        143
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS12586 ghostnet gmbh"
+}

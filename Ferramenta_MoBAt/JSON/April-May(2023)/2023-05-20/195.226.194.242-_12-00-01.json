@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "RU",
+    "abuseipdb_isp": "Infolink LLC",
+    "abuseipdb_domain": "informlink.ru",
+    "abuseipdb_total_reports": 85828,
+    "abuseipdb_num_distinct_users": 761,
+    "abuseipdb_last_reported_at": "2023-05-20T15:21:44+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Chang Way Technologies Co. Limited",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 9,
+        "suspicious": 2,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 57523,
+    "virustotal_reputation": -4,
+    "IBM_score": 10,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.5,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS57523",
+    "SHODAN_isp": "Chang Way Technologies Co. Limited",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "ASNone "
+}

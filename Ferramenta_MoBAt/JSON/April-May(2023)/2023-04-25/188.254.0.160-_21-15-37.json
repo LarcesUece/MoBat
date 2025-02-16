@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "RU",
+    "abuseipdb_isp": "OJSC Rostelecom",
+    "abuseipdb_domain": "rostelecom.ru",
+    "abuseipdb_total_reports": 3692,
+    "abuseipdb_num_distinct_users": 787,
+    "abuseipdb_last_reported_at": "2023-04-25T22:49:58+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Rostelecom",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 9,
+        "suspicious": 1,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 12389,
+    "virustotal_reputation": -13,
+    "IBM_score": 5.7,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.76,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS12389",
+    "SHODAN_isp": "PJSC Rostelecom",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS12389 pjsc rostelecom"
+}

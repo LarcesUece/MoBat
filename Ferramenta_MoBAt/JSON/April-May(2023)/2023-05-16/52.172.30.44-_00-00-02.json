@@ -1,0 +1,40 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "IN",
+    "abuseipdb_isp": "Microsoft Corporation",
+    "abuseipdb_domain": "microsoft.com",
+    "abuseipdb_total_reports": 3514,
+    "abuseipdb_num_distinct_users": 756,
+    "abuseipdb_last_reported_at": "2023-05-16T03:05:06+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 8,
+        "suspicious": 1,
+        "undetected": 17,
+        "timeout": 0
+    },
+    "virustotal_asn": 8075,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.76,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS8075",
+    "SHODAN_isp": "Microsoft Corporation",
+    "SHODAN_vulns": "True",
+    "SHODAN_ports": [
+        80,
+        22
+    ],
+    "SHODAN_tags": [
+        "eol-product",
+        "cloud"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS8075 microsoft corporation"
+}

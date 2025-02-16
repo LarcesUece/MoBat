@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "BG",
+    "abuseipdb_isp": "Global Communication Net Plc",
+    "abuseipdb_domain": "gcn.bg",
+    "abuseipdb_total_reports": 10894,
+    "abuseipdb_num_distinct_users": 597,
+    "abuseipdb_last_reported_at": "2023-05-17T20:23:01+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "SS-Net",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 7,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 204428,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.9,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS204428",
+    "SHODAN_isp": "SS-Net",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": null,
+    "ALIENVAULT_false_positive": "True",
+    "ALIENVAULT_asn": null
+}

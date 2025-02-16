@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "RU",
+    "abuseipdb_isp": "Chang Way Technologies Co. Limited",
+    "abuseipdb_domain": "changway.hk",
+    "abuseipdb_total_reports": 6566,
+    "abuseipdb_num_distinct_users": 56,
+    "abuseipdb_last_reported_at": "2023-05-20T09:01:48+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Chang Way Technologies Co. Limited",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 7,
+        "suspicious": 0,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 57523,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.94,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS57523",
+    "SHODAN_isp": "Chang Way Technologies Co. Limited",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS57523 chang way technologies co. limited"
+}

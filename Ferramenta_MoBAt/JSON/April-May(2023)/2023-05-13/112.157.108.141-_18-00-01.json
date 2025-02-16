@@ -1,0 +1,36 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "KR",
+    "abuseipdb_isp": "LG Powercomm",
+    "abuseipdb_domain": "powercomm.com",
+    "abuseipdb_total_reports": 1202,
+    "abuseipdb_num_distinct_users": 438,
+    "abuseipdb_last_reported_at": "2023-05-13T20:07:14+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "LG POWERCOMM",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 10,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 17858,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS17858",
+    "SHODAN_isp": "LG POWERCOMM",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        8700
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS17858 lg powercomm"
+}

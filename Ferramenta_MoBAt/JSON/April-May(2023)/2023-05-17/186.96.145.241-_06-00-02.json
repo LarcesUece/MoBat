@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "MX",
+    "abuseipdb_isp": "Total Play Telecomunicaciones SA de CV",
+    "abuseipdb_domain": "totalplay.com.mx",
+    "abuseipdb_total_reports": 8290,
+    "abuseipdb_num_distinct_users": 144,
+    "abuseipdb_last_reported_at": "2023-05-17T09:25:40+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 7,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 22884,
+    "virustotal_reputation": 0,
+    "IBM_score": null,
+    "IBM_reason": "False",
+    "IBM_reasonDescription": "False",
+    "IBM_average history Score": null,
+    "IBM_most common score": null,
+    "SHODAN_asn": "AS22884",
+    "SHODAN_isp": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS22884 total play telecomunicaciones sa de cv"
+}

@@ -1,0 +1,40 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "BR",
+    "abuseipdb_isp": "Companhia de Telecomunicacoes Do Brasil Central",
+    "abuseipdb_domain": "ctbc.com.br",
+    "abuseipdb_total_reports": 3576,
+    "abuseipdb_num_distinct_users": 817,
+    "abuseipdb_last_reported_at": "2023-05-14T08:30:23+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "ALGAR TELECOM SA",
+    "virustotal_last_analysis_stats": {
+        "harmless": 58,
+        "malicious": 10,
+        "suspicious": 1,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 16735,
+    "virustotal_reputation": -1,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.6,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS16735",
+    "SHODAN_isp": "ALGAR TELECOM S/A",
+    "SHODAN_vulns": "True",
+    "SHODAN_ports": [
+        80,
+        9090,
+        443,
+        21,
+        22
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS16735 algar telecom s/a"
+}

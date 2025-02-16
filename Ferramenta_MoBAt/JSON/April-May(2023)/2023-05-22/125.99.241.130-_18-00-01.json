@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "IN",
+    "abuseipdb_isp": "Hathway Cable and Datacom Limited",
+    "abuseipdb_domain": "hathway.com",
+    "abuseipdb_total_reports": 296,
+    "abuseipdb_num_distinct_users": 105,
+    "abuseipdb_last_reported_at": "2023-05-22T17:31:21+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Hathway IP Over Cable Internet",
+    "virustotal_last_analysis_stats": {
+        "harmless": 58,
+        "malicious": 7,
+        "suspicious": 3,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 17488,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.54,
+    "IBM_most common score": 5.7,
+    "SHODAN_asn": "AS17488",
+    "SHODAN_isp": "Hathway IP Over Cable Internet",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS17488 hathway ip over cable internet"
+}

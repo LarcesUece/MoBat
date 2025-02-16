@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "TW",
+    "abuseipdb_isp": "Kbro Co. Ltd.",
+    "abuseipdb_domain": "kbro.com.tw",
+    "abuseipdb_total_reports": 3200,
+    "abuseipdb_num_distinct_users": 792,
+    "abuseipdb_last_reported_at": "2023-05-21T01:00:08+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "kbro CO. Ltd.",
+    "virustotal_last_analysis_stats": {
+        "harmless": 59,
+        "malicious": 8,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 38841,
+    "virustotal_reputation": -1,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 2.35,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS38841 kbro co. ltd."
+}

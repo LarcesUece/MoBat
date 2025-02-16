@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 95,
+    "abuseipdb_country_code": "IR",
+    "abuseipdb_isp": "Aria Shatel Company Ltd",
+    "abuseipdb_domain": "shatel.ir",
+    "abuseipdb_total_reports": 80,
+    "abuseipdb_num_distinct_users": 69,
+    "abuseipdb_last_reported_at": "2023-05-11T07:21:14+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "Iran Telecommunication Company PJS",
+    "virustotal_last_analysis_stats": {
+        "harmless": 0,
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 86,
+        "timeout": 0
+    },
+    "virustotal_asn": 58224,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": null,
+    "SHODAN_isp": null,
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS58224 iran telecommunication company pjs"
+}

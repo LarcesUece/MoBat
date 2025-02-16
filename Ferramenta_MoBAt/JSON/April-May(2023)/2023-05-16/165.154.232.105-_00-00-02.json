@@ -1,0 +1,36 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "TH",
+    "abuseipdb_isp": "SCloud Pte Ltd",
+    "abuseipdb_domain": "scloud.sg",
+    "abuseipdb_total_reports": 2259,
+    "abuseipdb_num_distinct_users": 638,
+    "abuseipdb_last_reported_at": "2023-05-16T01:52:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Scloud Pte Ltd",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 11,
+        "suspicious": 1,
+        "undetected": 18,
+        "timeout": 0
+    },
+    "virustotal_asn": 142002,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.48,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS142002",
+    "SHODAN_isp": "Scloud Pte Ltd",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        22
+    ],
+    "SHODAN_tags": [],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS142002 scloud pte ltd"
+}

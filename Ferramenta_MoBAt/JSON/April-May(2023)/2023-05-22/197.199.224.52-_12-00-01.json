@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "EG",
+    "abuseipdb_isp": "Etisalat Misr",
+    "abuseipdb_domain": "etisalat.com.eg",
+    "abuseipdb_total_reports": 3881,
+    "abuseipdb_num_distinct_users": 784,
+    "abuseipdb_last_reported_at": "2023-05-22T13:45:42+00:00",
+    "virustotal_regional_internet_registry": "AFRINIC",
+    "virustotal_as_owner": "Etisalat Misr",
+    "virustotal_last_analysis_stats": {
+        "harmless": 58,
+        "malicious": 8,
+        "suspicious": 1,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 36992,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.01,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS36992",
+    "SHODAN_isp": "ETISALAT MISR",
+    "SHODAN_vulns": "False",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS36992 african network information center"
+}

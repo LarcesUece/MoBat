@@ -1,0 +1,39 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "EC",
+    "abuseipdb_isp": "Corporacion Nacional de Telecomunicaciones - CNT EP",
+    "abuseipdb_domain": "cnt.com.ec",
+    "abuseipdb_total_reports": 456,
+    "abuseipdb_num_distinct_users": 239,
+    "abuseipdb_last_reported_at": "2023-05-13T19:59:21+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+    "virustotal_last_analysis_stats": {
+        "harmless": 60,
+        "malicious": 7,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 28006,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS28006",
+    "SHODAN_isp": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+    "SHODAN_vulns": "False",
+    "SHODAN_ports": [
+        8443,
+        500
+    ],
+    "SHODAN_tags": [
+        "vpn"
+    ],
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS28006 corporacion nacional de telecomunicaciones - cnt ep"
+}

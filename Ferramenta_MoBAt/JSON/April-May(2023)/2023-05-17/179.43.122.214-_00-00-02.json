@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "AR",
+    "abuseipdb_isp": "Dattatec.com",
+    "abuseipdb_domain": "dattatec.com",
+    "abuseipdb_total_reports": 2065,
+    "abuseipdb_num_distinct_users": 606,
+    "abuseipdb_last_reported_at": "2023-05-17T02:25:55+00:00",
+    "virustotal_regional_internet_registry": "LACNIC",
+    "virustotal_as_owner": "Dattatec.com",
+    "virustotal_last_analysis_stats": {
+        "harmless": 57,
+        "malicious": 10,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 27823,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.99,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS27823",
+    "SHODAN_isp": "Dattatec.com",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS27823 dattatec.com"
+}

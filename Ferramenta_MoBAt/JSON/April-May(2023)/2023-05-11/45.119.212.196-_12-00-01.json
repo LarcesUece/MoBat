@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": false,
+    "abuseipdb_confidence_score": 100,
+    "abuseipdb_country_code": "VN",
+    "abuseipdb_isp": "Branch of Long Van System Solution JSC - Hanoi",
+    "abuseipdb_domain": "deco.vn",
+    "abuseipdb_total_reports": 4207,
+    "abuseipdb_num_distinct_users": 695,
+    "abuseipdb_last_reported_at": "2023-05-11T15:00:16+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Branch of Long Van System Solution JSC - Hanoi",
+    "virustotal_last_analysis_stats": {
+        "harmless": 55,
+        "malicious": 12,
+        "suspicious": 1,
+        "undetected": 19,
+        "timeout": 0
+    },
+    "virustotal_asn": 131423,
+    "virustotal_reputation": -1,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "AS131423",
+    "SHODAN_isp": "Branch of Long Van System Solution JSC - Hanoi",
+    "SHODAN_vulns": "True",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS131423 branch of long van system solution jsc - hanoi"
+}

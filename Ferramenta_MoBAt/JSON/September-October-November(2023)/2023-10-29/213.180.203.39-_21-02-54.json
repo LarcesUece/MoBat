@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": " True",
+    "abuseipdb_confidence_score": 0,
+    "abuseipdb_country_code": "RU",
+    "abuseipdb_isp": "Yandex LLC",
+    "abuseipdb_domain": "yandex.net",
+    "abuseipdb_total_reports": 39,
+    "abuseipdb_num_distinct_users": 9,
+    "abuseipdb_last_reported_at": "2023-10-28T09:15:55+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "YANDEX LLC",
+    "virustotal_last_analysis_stats": {
+        "harmless": 64,
+        "malicious": 3,
+        "suspicious": 0,
+        "undetected": 22,
+        "timeout": 0
+    },
+    "virustotal_asn": 13238,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 4.9,
+    "IBM_most common score": 4.3,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS208722 yandex oy"
+}

@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 0,
+    "abuseipdb_country_code": "BD",
+    "abuseipdb_isp": "Corporate Subscriber",
+    "abuseipdb_domain": "link3.net",
+    "abuseipdb_total_reports": 0,
+    "abuseipdb_num_distinct_users": 0,
+    "abuseipdb_last_reported_at": "2023-10-03T21:40:31+00:00",
+    "virustotal_regional_internet_registry": "APNIC",
+    "virustotal_as_owner": "Link3 Technologies Ltd.",
+    "virustotal_last_analysis_stats": {
+        "harmless": 65,
+        "malicious": 2,
+        "suspicious": 0,
+        "undetected": 22,
+        "timeout": 0
+    },
+    "virustotal_asn": 23688,
+    "virustotal_reputation": 0,
+    "IBM_score": 1,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 1.4,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": 0,
+    "ALIENVAULT_false_positive": "False",
+    "ALIENVAULT_asn": "AS23688 link3 technologies ltd."
+}

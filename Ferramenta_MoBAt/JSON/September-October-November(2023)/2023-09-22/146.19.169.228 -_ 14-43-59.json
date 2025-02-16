@@ -1,0 +1,32 @@
+{
+    "abuseipdb_is_whitelisted": "False",
+    "abuseipdb_confidence_score": 10,
+    "abuseipdb_country_code": "DE",
+    "abuseipdb_isp": "Xsserver GmbH",
+    "abuseipdb_domain": "xsserver.gmbh",
+    "abuseipdb_total_reports": 0,
+    "abuseipdb_num_distinct_users": 0,
+    "abuseipdb_last_reported_at": "2023-08-11T19:24:07+00:00",
+    "virustotal_regional_internet_registry": "RIPE NCC",
+    "virustotal_as_owner": "SkyLink Data Center BV",
+    "virustotal_last_analysis_stats": {
+        "harmless": 61,
+        "malicious": 4,
+        "suspicious": 4,
+        "undetected": 20,
+        "timeout": 0
+    },
+    "virustotal_asn": 44592,
+    "virustotal_reputation": -1,
+    "IBM_score": 2.9,
+    "IBM_reason": "True",
+    "IBM_reasonDescription": "True",
+    "IBM_average history Score": 3.0,
+    "IBM_most common score": 1,
+    "SHODAN_asn": "None",
+    "SHODAN_isp": "None",
+    "SHODAN_vulns": "None",
+    "ALIENVAULT_reputation": "None",
+    "ALIENVAULT_false_positive": "None",
+    "ALIENVAULT_asn": "None"
+}
