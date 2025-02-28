@@ -91,58 +91,111 @@ Para instalar e configurar o MoBat, siga os passos abaixo:
 
 1. Clone o repositório:
 ```sh
-git clone https://github.com/seu-repositorio/mobat.git
-cd mobat
+git clone https://github.com/LarcesUece/MoBat.git
+cd Mobat
 ```
 
-2. Instale as dependências:
+2. Crie um ambiente virtual
+```sh
+python3 -m venv venv
+```
+
+3. Ativar o ambiente virtual:
+```sh
+source venv/bin/activate
+```
+
+4. Instale as dependências:
 ```sh
 pip install -r requirements.txt
 ```
 
-3. Configure o MongoDB e inicie o serviço.
-4. Execute o servidor FastAPI:
+5. Configure o ambiente virtual ao vscode.
+
+6. Entre na pasta /Ferramenta_MoBAt:
 ```sh
-uvicorn main:app --host 0.0.0.0 --port 8000
+cd Ferramenta_MoBAt
 ```
 
-5. Para visualizar a interface, acesse `http://localhost:8000`.
-
+7. Execute o código Monitoring.py:
+```sh
+python3 Monitoring.py
+```
 ---
 
 ## Teste Mínimo
 
 1. Certifique-se de que todas as dependências estão instaladas.
-2. Execute o comando abaixo para testar a obtenção de dados de um IP suspeito:
 ```sh
-python run_mobat.py --ip 8.8.8.8
+pip list
 ```
-3. Se a instalação estiver correta, a saída deverá conter informações sobre o IP, incluindo histórico e reputação.
-
+2. Execute o comando abaixo para testar a exibição das tabelas de dados coletados e iniciar a interface de análise:
+```sh
+python3 Monitoring.py
+```
+3. Se a instalação estiver correta, o menu de seleção de tabelas será exibido, permitindo a escolha de períodos de coleta de dados. Para validar a funcionalidade básica:
+   + Selecione a opção "4" para carregar todos os dados coletados.
+   + Escolha a opção "1" para visualizar os gráficos de comportamento de um IP.
+   + Insira um IP listado para análise.
+4. Se tudo estiver configurado corretamente, a saída deverá conter gráficos e informações detalhadas sobre o comportamento do IP.
 ---
 
 ## Experimentos
 
 Os seguintes experimentos são fornecidos para validação das reivindicações do artigo:
 
-### Reivindicação #1: Classificação de IPs
+### Reivindicação #1: Análise de Comportamento de IPs
 **Passos:**
-1. Execute o script de análise de IPs:
+1. Execute o script principal:
 ```sh
-python analyze_ips.py --dataset dataset.csv
+python3 Monitoring.py
 ```
-2. Aguarde o processamento e visualize os gráficos gerados.
-3. O tempo estimado de execução é de 2 minutos para 10.000 IPs.
+2. Escolha uma das tabelas de dados disponíveis:
+    + Abril-Maio (2023)
+    + Setembro-Novembro (2023)
+    + Janeiro-Março (2024)
+    + Total Coletado
+3. Selecione a opção "1" para visualizar os gráficos de comportamento de um IP específico.
+4. Escolha um IP da lista fornecida.
+5. Verifique os gráficos gerados, incluindo:
+    + Localização geográfica do IP.
+    + Quantidade de reports ao longo do tempo.
+    + Score médio do IP em diferentes fontes de dados (AbuseIPDB, IBM, VirusTotal).
+    + Horários com maior atividade suspeita.
 
 ### Reivindicação #2: Clustering de IPs Maliciosos
 **Passos:**
-1. Execute o script de clustering:
+1. Execute o script principal:
 ```sh
-python clustering.py --clusters 5
+python3 Monitoring.py
 ```
-2. Verifique os grupos de IPs formados.
-3. O tempo estimado de execução é de 3 minutos para 15.000 IPs.
+2. Escolha a tabela de dados desejada.
+3. Selecione a opção "3" para realizar análise de clusters.
+4. Escolha a feature a ser utilizada como base para o agrupamento.
+5. Defina a quantidade de clusters desejada.
+6. Visualize os resultados nos gráficos gerados.
+7. (Opcional) Escolha salvar os clusters gerados em um arquivo Excel.
 
+### Reivindicação #3: Mapeamento de Características dos Dados
+**Passos:**
+1. Execute o script principal:
+```sh
+python3 Monitoring.py
+```
+2. Escolha a tabela de dados desejada.
+3. Selecione a opção "2" para visualizar o mapeamento das features.
+4. Examine os gráficos gerados mostrando a distribuição das características.
+5. (Opcional) Escolha salvar um arquivo Excel com os mapeamentos.
+
+### Reivindicação #4: Heatmap de Ocorrências por País
+**Passos:**
+1. Execute o script principal:
+```sh
+python3 Monitoring.py
+```
+2. Escolha a tabela de dados desejada.
+3. Selecione a opção "9" para visualizar o heatmap de ocorrências por país.
+4. Verifique o mapa gerado, onde as cores indicam a frequência de reports.
 ---
 
 ## Licença
