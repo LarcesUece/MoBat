@@ -1,59 +1,165 @@
 # MoBat
 
-## Proposal Summary
+## Resumo
 
-In response to the escalating cyber threats and the critical need for advanced solutions to safeguard data integrity and confidentiality, we propose the implementation of MoBAt (Monitoramento e Analise de Dados de Bases de Ameacas). MoBAt serves as a Threat Intelligence tool, designed to automatically collect and analyze data from various threat databases including VirusTotal, AbuseIPDB, Shodan, IBM X-Force, and AlienVault. The primary objective of MoBAt is to empower companies and institutions to stay updated on emerging threats by providing valuable indicators regarding suspicious IPs and domains. By automating the process of threat intelligence, MoBAt enhances efficiency, scalability, and response time, reducing the burden on cybersecurity teams. The architecture of MoBAt leverages cutting-edge technologies such as FastAPI for API construction, Seaborn for data visualization, Scikit-learn for feature selection and machine learning, and Docker containers for infrastructure deployment. Additionally, it utilizes MongoDB for data storage, Nginx for handling HTTP requests, and Celery for asynchronous task processing. Through extensive performance analysis, MoBAt has demonstrated its efficacy in handling large volumes of data, executing requests multiple times per day, and generating actionable insights for cybersecurity professionals. It addresses the challenges posed by discrepancies among threat databases, providing a comprehensive and contextualized view of IP reputation and behavior. MoBAt offers a range of functionalities including behavior graphs, feature mapping, clustering, feature selection, machine learning model evaluation, and visualization of IP reputation by country. These features enable rapid identification of suspicious activities, visualization of trends over time, and informed decision-making to enhance overall cybersecurity posture. In summary, MoBAt represents a vital tool in the arsenal of cybersecurity defenses, offering automated threat intelligence capabilities to safeguard against evolving cyber threats and ensure the protection of critical data assets.
+MoBat (Monitoramento e Análise de Dados de Bases de Ameaças) é uma ferramenta de Threat Intelligence projetada para coletar e analisar automaticamente dados de diversas bases de ameaças, incluindo VirusTotal, AbuseIPDB, Shodan, IBM X-Force e AlienVault. O objetivo principal do MoBat é fornecer indicadores valiosos sobre IPs e domínios suspeitos, permitindo que empresas e instituições se mantenham informadas sobre ameaças emergentes.
 
-## Description Project
+O MoBat utiliza tecnologias modernas como FastAPI para construção de APIs, Seaborn para visualização de dados, Scikit-learn para seleção de características e aprendizado de máquina, além de Docker para implantação da infraestrutura. O banco de dados utilizado é o MongoDB, enquanto o Nginx gerencia as requisições HTTP, e o Celery processa tarefas assíncronas.
 
-The MoBAt project focuses on developing a comprehensive tool for monitoring IP addresses and analyzing their behavior across various online platforms. The goal is to provide users with a detailed understanding of IP characteristics from sources like AbuseIPDB, IBMXForce, VirusTotal, AlienVault, and Shodan. The tool processes JSON data, converts it to CSV format, and performs in-depth analysis using graphical representations, machine learning techniques, and feature selection. The ultimate aim is to enhance threat monitoring capabilities and provide actionable insights for cybersecurity professionals and researchers.
+Por meio de análises detalhadas de desempenho, o MoBat demonstrou eficácia na manipulação de grandes volumes de dados, garantindo respostas rápidas para profissionais de segurança cibernética. A ferramenta oferece gráficos de comportamento, mapeamento de características, agrupamento de dados (clustering), avaliação de modelos de aprendizado de máquina e visualização da reputação de IPs por país.
 
+---
 
-## Technologies used:
+## Estrutura do README.md
 
-Python 3.12 - An open-source programming language known for its simplicity and versatility.
-Pandas - A powerful data manipulation and analysis library for Python.
-NumPy - A fundamental package for scientific computing with Python.
-Matplotlib - A comprehensive library for creating static, animated, and interactive visualizations in Python.
-Scikit-learn - A simple and efficient tool for data mining and data analysis.
-Seaborn - A Python visualization library based on matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
-Tkinter - Python's standard GUI (Graphical User Interface) package.
-Geopandas - A Python library for working with geospatial data.
-Pytz - A Python library for working with time zones.
-JSON - A lightweight data interchange format.
-Regular expressions (re) - A module for working with regular expressions in Python.
-Geopandas - A Python library for working with geospatial data.
-Pycountry - A Python package to access ISO databases.
-Time - A Python module providing various time-related functions.
-KMeans - A clustering algorithm available in scikit-learn.
-VarianceThreshold, SelectKBest, f_classif, f_regression, mutual_info_regression - Feature selection techniques available in scikit-learn.
-GradientBoostingRegressor, RandomForestRegressor, ExtraTreesRegressor, Lasso, LinearRegression, KNeighborsRegressor - Machine learning models available in scikit-learn.
-Mean_squared_error - A metric for evaluating the performance of regression models in scikit-learn.
+1. **Resumo**
+2. **Estrutura do repositório**
+3. **Selos Considerados**
+4. **Informações básicas**
+5. **Dependências**
+6. **Preocupações com segurança**
+7. **Instalação**
+8. **Teste mínimo**
+9. **Experimentos**
+10. **Licença**
 
-Participantes
+---
 
-## Coordenador do projeto:
+## Selos Considerados
 
-Rafael Lopes Gomes: http://lattes.cnpq.br/5212299313885086
+Os selos considerados para avaliação do artefato são:
+- **Artefatos Disponíveis (SeloD)**
+- **Artefatos Funcionais (SeloF)**
+- **Artefatos Sustentáveis (SeloS)**
+- **Experimentos Reprodutíveis (SeloR)**
 
-## Back-end e Data Analyst:
-Yago Melo da Costa
+---
 
-Currículo lattes: http://lattes.cnpq.br/0381069814979157
+## Informações Básicas
 
-Davi Oliveira
+### Requisitos de hardware:
+- Processador: Intel i5 ou superior
+- Memória RAM: Mínimo de 8GB
+- Armazenamento: Mínimo de 20GB de espaço disponível
+- Sistema Operacional: Linux (Ubuntu 20.04+), Windows 10+, macOS 12+
 
-Currículo lattes: http://lattes.cnpq.br/6275027161080881
+### Requisitos de software:
+- Python 3.12+
+- Docker e Docker Compose
+- MongoDB
+- Nginx
+- FastAPI
+- Celery
 
-Ramon Araújo
+---
 
-Currículo lattes: http://lattes.cnpq.br/4482457290815759
+## Dependências
 
-Lyedson Silva
+MoBat utiliza diversas bibliotecas e pacotes para sua execução. As principais dependências incluem:
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Seaborn
+- Tkinter
+- Geopandas
+- Pytz
+- JSON
+- Regular Expressions (re)
+- Pycountry
+- Time
 
-Currículo lattes: http://lattes.cnpq.br/6321492413240258
+Para instalar todas as dependências necessárias, utilize:
+```sh
+pip install -r requirements.txt
+```
 
-Francisco Nobre
+---
 
-Currículo lattes:  http://lattes.cnpq.br/8242344331454843
+## Preocupações com Segurança
+
+A execução do artefato pode envolver a manipulação de dados sensíveis sobre ameaças cibernéticas. Para mitigar riscos:
+- O uso da ferramenta deve ser restrito a ambientes de teste e pesquisa.
+- Recomenda-se que a execução ocorra em redes isoladas ou máquinas virtuais.
+- Evitar o uso de credenciais públicas ao acessar APIs de terceiros.
+
+---
+
+## Instalação
+
+Para instalar e configurar o MoBat, siga os passos abaixo:
+
+1. Clone o repositório:
+```sh
+git clone https://github.com/seu-repositorio/mobat.git
+cd mobat
+```
+
+2. Instale as dependências:
+```sh
+pip install -r requirements.txt
+```
+
+3. Configure o MongoDB e inicie o serviço.
+4. Execute o servidor FastAPI:
+```sh
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+5. Para visualizar a interface, acesse `http://localhost:8000`.
+
+---
+
+## Teste Mínimo
+
+1. Certifique-se de que todas as dependências estão instaladas.
+2. Execute o comando abaixo para testar a obtenção de dados de um IP suspeito:
+```sh
+python run_mobat.py --ip 8.8.8.8
+```
+3. Se a instalação estiver correta, a saída deverá conter informações sobre o IP, incluindo histórico e reputação.
+
+---
+
+## Experimentos
+
+Os seguintes experimentos são fornecidos para validação das reivindicações do artigo:
+
+### Reivindicação #1: Classificação de IPs
+**Passos:**
+1. Execute o script de análise de IPs:
+```sh
+python analyze_ips.py --dataset dataset.csv
+```
+2. Aguarde o processamento e visualize os gráficos gerados.
+3. O tempo estimado de execução é de 2 minutos para 10.000 IPs.
+
+### Reivindicação #2: Clustering de IPs Maliciosos
+**Passos:**
+1. Execute o script de clustering:
+```sh
+python clustering.py --clusters 5
+```
+2. Verifique os grupos de IPs formados.
+3. O tempo estimado de execução é de 3 minutos para 15.000 IPs.
+
+---
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
+
+---
+
+## Equipe do Projeto
+
+**Coordenador:**
+- Rafael Lopes Gomes - [Lattes](http://lattes.cnpq.br/5212299313885086)
+
+**Back-end e Data Analysts:**
+- Yago Melo da Costa - [Lattes](http://lattes.cnpq.br/0381069814979157)
+- Davi Oliveira - [Lattes](http://lattes.cnpq.br/6275027161080881)
+- Ramon Araújo - [Lattes](http://lattes.cnpq.br/4482457290815759)
+- Lyedson Silva - [Lattes](http://lattes.cnpq.br/6321492413240258)
+- Francisco Nobre - [Lattes](http://lattes.cnpq.br/8242344331454843)
 
