@@ -1,0 +1,13 @@
+pandas
+matplotlib
+scikit-learn
+seaborn
+numpy
+tk
+p
+geopandas
+pytz
+pycountry
+json
+re
+os
